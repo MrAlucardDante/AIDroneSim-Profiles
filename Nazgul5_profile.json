@@ -1,0 +1,67 @@
+{
+			"ratesType": "Actual",
+			"profileName": "iFlight Nazgul5",
+			"filename": "iFlight Nazgul5_profile.json",
+			"cameraAngle": 20,
+			"cameraFOV": 125,
+			"cameraRatio": 1.7777780294418335,
+			"rates":
+			{
+				"roll":
+				{
+					"rc_rate": 1,
+					"rate": 60,
+					"rc_expo": 30,
+					"rate_limit": 1998
+				},
+				"pitch":
+				{
+					"rc_rate": 1,
+					"rate": 60,
+					"rc_expo": 30,
+					"rate_limit": 1998
+				},
+				"yaw":
+				{
+					"rc_rate": 1,
+					"rate": 45,
+					"rc_expo": 30,
+					"rate_limit": 1998
+				}
+			},
+			"displayRates":
+			{
+				"roll":
+				{
+					"rc_rate": 10,
+					"rate": 600,
+					"rc_expo": 0.30000001192092896,
+					"rate_limit": 1998
+				},
+				"pitch":
+				{
+					"rc_rate": 10,
+					"rate": 600,
+					"rc_expo": 0.30000001192092896,
+					"rate_limit": 1998
+				},
+				"yaw":
+				{
+					"rc_rate": 10,
+					"rate": 450,
+					"rc_expo": 0.30000001192092896,
+					"rate_limit": 1998
+				}
+			},
+			"throttle":
+			{
+				"thr_mid": 50,
+				"thr_expo": 0,
+				"tpa_rate": 20
+			},
+			"bIsAirModeActive": true,
+			"airModeActivateThrottle": 25,
+			"flightMode": "Acro",
+			"angleModeMaxAngle": 55,
+			"angleLevelStrength": 50
+		}
